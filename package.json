@@ -44,7 +44,7 @@
   "author": "Amin Marashi <marashisamin at gmail>",
   "license": "ISC",
   "devDependencies": {
-    "babel-eslint": "^8.2.2",
+    "babel-eslint": "^10.1.0",
     "babel-jest": "^24.1.0",
     "babel-loader": "^7.1.2",
     "babel-minify-webpack-plugin": "^0.2.0",
