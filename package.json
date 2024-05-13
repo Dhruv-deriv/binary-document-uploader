@@ -59,7 +59,7 @@
     "jest": "^25.2.7",
     "lint-staged": "^4.0.3",
     "prettier-eslint-cli": "^5.0.0",
-    "webpack": "^3.5.5",
+    "webpack": "^5.91.0",
     "ws": "^6.1.4"
   },
   "dependencies": {
